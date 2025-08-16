@@ -1,3 +1,33 @@
-h1{
-    
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #222;
+  color: white;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  margin: 20px;
+}
+
+iframe {
+  margin: 15px 0;
+  border-radius: 8px;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
 }
